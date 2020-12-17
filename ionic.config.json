@@ -1,0 +1,7 @@
+{
+  "name": "tugas-jericho",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
